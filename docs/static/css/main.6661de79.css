@@ -1,0 +1,2 @@
+body{font-family:sans-serif;margin:0}.mark{color:#7fffd4}#root{background-color:coral;flex-direction:column;gap:20px;min-height:100vh}#root,.card{align-items:center;display:flex;justify-content:center}.card{border:1px solid;border-radius:8px;height:120px;width:120px}.box{grid-gap:10px;display:grid;gap:10px;grid-template-columns:repeat(3,auto)}
+/*# sourceMappingURL=main.6661de79.css.map*/
